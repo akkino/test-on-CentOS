@@ -2,7 +2,10 @@ Laravelの習得を目標としています
 
 PHPフレームワーク_LAravel入門(著：掌田津耶乃)を使用して勉強していく
 
-開発環境：Vagrant、CentOSを使用したローカル開発環境
+開発環境：Vagrant、CentOSを使用したローカル環境
+PHP：ver7.1.26
+Laravel:ver5.7.24
+DB：MySQL(予定)
 エディタ：atom
 GitHub：ここ
 
