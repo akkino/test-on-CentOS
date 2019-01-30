@@ -1,0 +1,16 @@
+git config --global user.name "githubのユーザ名"
+git config --global user.email "メールアドレス"
+
+登録できているかの確認
+vi ~/.gitconfig
+
+gitリポジトリの作成
+git init
+
+git add *
+git commit -m "コメント"
+
+remoteの設定(1回のみでok)
+git remote add origin git@github.com:アカウント名/リモートリポジトリ名.git
+
+git push origin master
