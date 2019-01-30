@@ -1,0 +1,10 @@
+Laravelの習得を目標としています
+
+PHPフレームワーク_LAravel入門の内容を勉強していく
+
+開発環境：VagrantｰCentOSを使用したローカル開発環境
+エディタ：atom
+GitHub：ここ
+
+最終的な目標
+TechAcademyの講座で作成したBookshelf(ブラウザでの読書管理サイト)をLaravelで再現する。
