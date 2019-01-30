@@ -14,3 +14,33 @@ remoteの設定(1回のみでok)
 git remote add origin git@github.com:アカウント名/リモートリポジトリ名.git
 
 git push origin master
+
+参考文献
+https://razokulover.hateblo.jp/entry/20121128/1354134504
+https://www.slideshare.net/furuya02/github-16186770?next_slideshow=1
+
+
+git init
+git commit
+git add ファイル名
+git rm ファイル名
+git mv ファイル名
+git status
+git graph
+git branch
+git checkout ブランチ名
+git merge ブランチ名
+git branch -d ブランチ名
+git checkout -b ブランチ名
+git merge --no-ff ブランチ名
+git rebase ブランチ名
+git commit --amend
+
+$ git config user.name TAKASHI
+$ git config user.email takashi@example.com
+
+git clone ＜複製元＞ ＜複製される先＞
+git clone --bare ＜複製元＞ ＜複製される先＞
+
+git remote
+git branch ＜手元のブランチの名前＞ ＜追跡したいリモートブランチの名前＞
